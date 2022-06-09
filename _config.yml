@@ -14,11 +14,11 @@ author: Hardik Tejani
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Resume: "resume"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Resume: "www.google.com"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
