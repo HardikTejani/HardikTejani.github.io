@@ -14,7 +14,7 @@ author: Hardik Tejani
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Hi !!, I am Hardik Tejani"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -41,15 +41,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "Hardiktejani007@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: https://github.com/HardikTejani/
+  github: HardikTejani
   #twitter: daattali
   #patreon: DeanAttali
-  youtube: https://www.youtube.com/channel/UCU4Imt30PyxJd4NiFdkM65g
+  youtube: channel/UCU4Imt30PyxJd4NiFdkM65g
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/hardik-tejani/
+  linkedin: in/hardik-tejani/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -70,7 +70,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
